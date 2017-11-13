@@ -2,6 +2,6 @@
 
 Binaries for elastic rally benchmarking.
 
-Downloaded from http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora
+Downloaded from http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/percolator
 
-/geonames/documents-2.json.bz2
+
